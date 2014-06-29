@@ -10,8 +10,9 @@
   "private": false,
   "singleInstall": true,
   "location": [ "new_ticket_sidebar", "ticket_sidebar" ],
-  "frameworkVersion": "1.0",
-  "version": "0.2.2",
+  "frameworkVersion": "1.0",    
+  "noTemplate": true,
+  "version": "0.2.2.1",
 
   "parameters": [
     {
